@@ -1,0 +1,56 @@
+{
+  "days": [
+    {
+      "anchor": "22_Oct_25",
+      "label": "Wednesday, 22 October",
+      "entries": [
+        {
+          "session_id": "FIT1045-PASS02-22OCT",
+          "course_code": "FIT1045",
+          "slot_label": "PASS 02",
+          "time_label": "03:00 pm",
+          "status": "locked",
+          "code": "LCPPH"
+        },
+        {
+          "session_id": "FIT1047-WK02-22OCT",
+          "course_code": "FIT1047",
+          "slot_label": "Workshop 02",
+          "time_label": "06:00 pm",
+          "status": "pending",
+          "code": "LMJJ5"
+        }
+      ]
+    },
+    {
+      "anchor": "23_Oct_25",
+      "label": "Thursday, 23 October",
+      "entries": [
+        {
+          "session_id": "FIT1058-WK02P1-23OCT",
+          "course_code": "FIT1058",
+          "slot_label": "Workshop 02-P1",
+          "time_label": "11:30 am",
+          "status": "submitted",
+          "code": "S5N8V"
+        },
+        {
+          "session_id": "FIT1058-WK02P2-23OCT",
+          "course_code": "FIT1058",
+          "slot_label": "Workshop 02-P2",
+          "time_label": "04:30 pm",
+          "status": "pending",
+          "code": "WUAWB"
+        },
+        {
+          "session_id": "FIT1043-LAB05-23OCT",
+          "course_code": "FIT1043",
+          "slot_label": "Laboratory 05",
+          "time_label": "10:00 am",
+          "status": "locked",
+          "code": "QVF78"
+        }
+      ]
+    }
+  ]
+}
