@@ -1,4 +1,4 @@
-# APLUS Mock Portal
+# aPlus+ Mock Portal
 
 A lightweight mock server that emulates the Monash University attendance portal for testing and development purposes. This server replicates the key functionality of the real attendance system, allowing developers to test attendance automation tools without affecting production systems.
 
@@ -258,7 +258,7 @@ This is a **mock server for development/testing only**:
 
 ## License
 
-[Your License Here]
+MIT
 
 ## Contributing
 
