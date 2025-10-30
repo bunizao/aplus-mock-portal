@@ -1,11 +1,87 @@
 {
   "days": [
     {
-      "anchor": "22_Oct_25",
-      "label": "Wednesday, 22 October",
+      "anchor": "28_Oct_25",
+      "label": "Monday, 28 October",
       "entries": [
         {
-          "session_id": "FIT1045-PASS02-22OCT",
+          "session_id": "564001",
+          "course_code": "FIT1045",
+          "slot_label": "Lecture 01",
+          "time_label": "09:00 am",
+          "status": "pending",
+          "code": "M8YHB"
+        },
+        {
+          "session_id": "564002",
+          "course_code": "FIT1047",
+          "slot_label": "Tutorial 01",
+          "time_label": "11:00 am",
+          "status": "pending",
+          "code": "P3XKD"
+        },
+        {
+          "session_id": "564003",
+          "course_code": "FIT1058",
+          "slot_label": "Laboratory 01",
+          "time_label": "02:00 pm",
+          "status": "pending",
+          "code": "Q7ZNL"
+        },
+        {
+          "session_id": "564004",
+          "course_code": "FIT2004",
+          "slot_label": "Workshop 01",
+          "time_label": "04:00 pm",
+          "status": "pending",
+          "code": "R9VMF"
+        }
+      ]
+    },
+    {
+      "anchor": "29_Oct_25",
+      "label": "Tuesday, 29 October",
+      "entries": [
+        {
+          "session_id": "564005",
+          "course_code": "FIT1043",
+          "slot_label": "Laboratory 01",
+          "time_label": "10:00 am",
+          "status": "pending",
+          "code": "T5GHW"
+        },
+        {
+          "session_id": "564006",
+          "course_code": "FIT1045",
+          "slot_label": "Tutorial 01",
+          "time_label": "01:00 pm",
+          "status": "pending",
+          "code": "U4BKS"
+        },
+        {
+          "session_id": "564007",
+          "course_code": "FIT2014",
+          "slot_label": "Practical 01",
+          "time_label": "03:00 pm",
+          "status": "pending",
+          "code": "V8XJM"
+        },
+        {
+          "session_id": "564008",
+          "course_code": "FIT3175",
+          "slot_label": "Seminar 01",
+          "time_label": "05:30 pm",
+          "status": "pending",
+          "code": "W2YPQ"
+        }
+      ]
+    },
+    {
+      "anchor": "30_Oct_25",
+      "label": "Wednesday, 30 October",
+      "entries": [
+        {
+          "session_id": "564009",
           "course_code": "FIT1045",
           "slot_label": "PASS 02",
           "time_label": "03:00 pm",
@@ -13,21 +89,29 @@
           "code": "LCPPH"
         },
         {
-          "session_id": "FIT1047-WK02-22OCT",
+          "session_id": "564010",
           "course_code": "FIT1047",
           "slot_label": "Workshop 02",
           "time_label": "06:00 pm",
-          "status": "pending",
+          "status": "submitted",
           "code": "LMJJ5"
+        },
+        {
+          "session_id": "564011",
+          "course_code": "FIT1058",
+          "slot_label": "Workshop 02",
+          "time_label": "08:00 am",
+          "status": "pending",
+          "code": "X9FLK"
         }
       ]
     },
     {
-      "anchor": "23_Oct_25",
-      "label": "Thursday, 23 October",
+      "anchor": "31_Oct_25",
+      "label": "Thursday, 31 October",
       "entries": [
         {
-          "session_id": "FIT1058-WK02P1-23OCT",
+          "session_id": "564012",
           "course_code": "FIT1058",
           "slot_label": "Workshop 02-P1",
           "time_label": "11:30 am",
@@ -35,7 +119,7 @@
           "code": "S5N8V"
         },
         {
-          "session_id": "FIT1058-WK02P2-23OCT",
+          "session_id": "564013",
           "course_code": "FIT1058",
           "slot_label": "Workshop 02-P2",
           "time_label": "04:30 pm",
@@ -43,12 +127,118 @@
           "code": "WUAWB"
         },
         {
-          "session_id": "FIT1043-LAB05-23OCT",
+          "session_id": "564014",
           "course_code": "FIT1043",
-          "slot_label": "Laboratory 05",
+          "slot_label": "Laboratory 02",
           "time_label": "10:00 am",
-          "status": "locked",
+          "status": "pending",
           "code": "QVF78"
+        },
+        {
+          "session_id": "564015",
+          "course_code": "FIT2004",
+          "slot_label": "Lecture 02",
+          "time_label": "02:00 pm",
+          "status": "pending",
+          "code": "A5BGR"
+        }
+      ]
+    },
+    {
+      "anchor": "1_Nov_25",
+      "label": "Friday, 1 November",
+      "entries": [
+        {
+          "session_id": "564016",
+          "course_code": "FIT2004",
+          "slot_label": "Tutorial 02",
+          "time_label": "09:00 am",
+          "status": "pending",
+          "code": "NEQ9B"
+        },
+        {
+          "session_id": "564017",
+          "course_code": "FIT2004",
+          "slot_label": "Tutorial 03",
+          "time_label": "11:00 am",
+          "status": "pending",
+          "code": "58RL4"
+        },
+        {
+          "session_id": "564018",
+          "course_code": "FIT3031",
+          "slot_label": "Laboratory 02",
+          "time_label": "02:00 pm",
+          "status": "pending",
+          "code": "PCJ9S"
+        },
+        {
+          "session_id": "564019",
+          "course_code": "FIT1045",
+          "slot_label": "Lecture 02",
+          "time_label": "04:00 pm",
+          "status": "pending",
+          "code": "B8JKR"
+        }
+      ]
+    },
+    {
+      "anchor": "2_Nov_25",
+      "label": "Saturday, 2 November",
+      "entries": [
+        {
+          "session_id": "564020",
+          "course_code": "FIT1045",
+          "slot_label": "PASS 03",
+          "time_label": "10:00 am",
+          "status": "pending",
+          "code": "6HK7N"
+        },
+        {
+          "session_id": "564021",
+          "course_code": "FIT2014",
+          "slot_label": "Revision 02",
+          "time_label": "01:00 pm",
+          "status": "locked",
+          "code": "N8ZWM"
+        },
+        {
+          "session_id": "564022",
+          "course_code": "FIT3175",
+          "slot_label": "Project 01",
+          "time_label": "03:00 pm",
+          "status": "pending",
+          "code": "C7PLM"
+        }
+      ]
+    },
+    {
+      "anchor": "3_Nov_25",
+      "label": "Sunday, 3 November",
+      "entries": [
+        {
+          "session_id": "564023",
+          "course_code": "FIT1047",
+          "slot_label": "Workshop 03",
+          "time_label": "09:00 am",
+          "status": "pending",
+          "code": "VBMME"
+        },
+        {
+          "session_id": "564024",
+          "course_code": "FIT3175",
+          "slot_label": "Laboratory 03",
+          "time_label": "12:30 pm",
+          "status": "pending",
+          "code": "3UDBP"
+        },
+        {
+          "session_id": "564025",
+          "course_code": "FIT1043",
+          "slot_label": "Practical 01",
+          "time_label": "03:30 pm",
+          "status": "pending",
+          "code": "MZ27D"
         }
       ]
     }
