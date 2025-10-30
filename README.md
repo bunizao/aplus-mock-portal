@@ -2,6 +2,12 @@
 
 A lightweight mock server that emulates the Monash University attendance portal for testing and development purposes. This server replicates the key functionality of the real attendance system, allowing developers to test attendance automation tools without affecting production systems.
 
+<p align="center">
+  <img src="static/img/demo.png" alt="Mock portal demo screenshot" />
+  <br />
+  <em>Demo image</em>
+</p>
+
 ## Features
 
 - **Authentic UI**: Pixel-perfect recreation of the Monash attendance portal interface using jQuery Mobile
@@ -258,7 +264,12 @@ This is a **mock server for development/testing only**:
 
 ## License
 
-MIT
+This project is licensed under the MIT License. In practical terms this means:
+- You may use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software.
+- You must include the original copyright and license notice in any substantial portions of the software.
+- The software is provided “as is” without warranties; the authors are not liable for any claims or damages arising from its use.
+
+See `LICENSE` for the full legal text.
 
 ## Contributing
 
@@ -274,4 +285,3 @@ For issues and questions:
 - Create an issue on GitHub
 - Check the troubleshooting section
 - Review the API documentation
-
