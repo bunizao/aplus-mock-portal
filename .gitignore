@@ -208,6 +208,25 @@ __marimo__/
 storage_state.json
 codes_test.json
 
+# Browser automation and testing
+screenshots/
+playwright-report/
+test-results/
+*.png
+*.jpg
+*.jpeg
+
+# Data directories that might contain sensitive info
+data/
+codes/
+
+# Runtime and temporary files
+*.pid
+tmp/
+temp/
+*.tmp
+*.bak
+
 # Ignoring agent-related files
 AGENTS.md
 CLAUDE.md
@@ -219,3 +238,4 @@ attendance_stats.json
 .idea/
 .portal_state.json
 data/mock_portal.db
+.DS_Store
